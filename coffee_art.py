@@ -1,3 +1,4 @@
+# ASCII art for fun
 coffee_machine = '''
             __  __                                    _     _                           
            / _|/ _|                                  | |   (_)                
